@@ -68,7 +68,8 @@ Future Improvements
 - Add more chemical descriptors (LogP, TPSA, etc.) alongside fingerprints.
 - Deploy as a permanent web app on Hugging Face or Streamlit.
 
-
+App Interface:
+https://github.com/Noor1234-ctrl/IC50-Prediction-for-EGFR-Target/blob/main/App%20Interface.png
 
 
 
